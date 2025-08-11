@@ -1,13 +1,13 @@
 # UserTrack
 
 UserTrack is a simple **CRUD (Create, Read, Update, Delete)** application built with **Node.js**, **Express**, **MongoDB**, and **EJS** templating.  
-It allows you to manage users with their **name**, **username**, and **profile image**.
+It allows you to manage users with their **name**, **email**, and **profile image**.
 
 ---
 
 ## 🚀 Features
 
-- 📌 Create new users with name, username, and profile image.
+- 📌 Create new users with name, email, and profile image.
 - 📄 View all users in a clean, responsive interface (TailwindCSS).
 - ✏️ Edit existing user details.
 - 🗑️ Delete users.
@@ -46,7 +46,7 @@ UserTrack/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/UserTrack.git
+   git clone https://github.com/Akash972004/UserTrack.git
    cd UserTrack
 # install dependencies
 npm install
