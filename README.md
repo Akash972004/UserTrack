@@ -48,21 +48,22 @@ UserTrack/
    ```bash
    git clone https://github.com/your-username/UserTrack.git
    cd UserTrack
-  
+# install dependencies
 npm install
 
-Setup MongoDB
+# Setup MongoDB
 
 Make sure MongoDB is running locally or use MongoDB Atlas.
-
 Create a .env file (optional) and set your MongoDB URI:
 MONGO_URI=mongodb://localhost:27017/usertrack
 
-Run the application
-node app.js
-nodemon app.js
+# Run the application
+   node app.js
+   
+   nodemon app.js
 
-Open in browser - http://localhost:3000
+# Open in browser 
+   http://localhost:3000
 
 ## 📸 Screenshots
 
